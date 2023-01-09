@@ -1,0 +1,12 @@
+Sistema creado por botaneroDev
+Sistemas para gestion de restaurantes utilizando Php , vueJS , HTML, JS ,CSS 
+.Copiar Carpeta API y DiST en HTDOCS 
+
+Iniciar en LocalHost/ (nombre de la carpeta)
+
+Registrar Nombre del restaurante , numero de mesas y usuario 
+
+usuario en formato de correo 
+
+contraseña por defecto *PacoHunterDev* / Cambiarla al primer inicio de seccion
+
